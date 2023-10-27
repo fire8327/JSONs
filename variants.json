@@ -1,0 +1,66 @@
+[
+        {
+            "link": "/",
+            "img": "/images/variants/1.png",
+            "title": "мини-отель weekend",
+            "proximity": "Напрямую от отеля",
+            "score": "4,8",
+            "safety": "Безопасная бронь" 
+        },
+        {
+            "link": "/",
+            "img": "/images/variants/2.png",
+            "title": "Гостевой дом одиссея",
+            "proximity": "Напрямую от отеля",
+            "score": "4,5",
+            "safety": "Безопасная бронь" 
+        },
+        {
+            "link": "/",
+            "img": "/images/variants/3.png",
+            "title": "отель victoria palas",
+            "proximity": "Напрямую от отеля",
+            "score": "3,9",
+            "safety": "Безопасная бронь" 
+        },
+        {
+            "link": "/",
+            "img": "/images/variants/4.png",
+            "title": "Хостел friends",
+            "proximity": "Напрямую от отеля",
+            "score": "4,0",
+            "safety": "Безопасная бронь" 
+        },
+        {
+            "link": "/",
+            "img": "/images/variants/1.png",
+            "title": "мини-отель weekend",
+            "proximity": "Напрямую от отеля",
+            "score": "4,8",
+            "safety": "Безопасная бронь" 
+        },
+        {
+            "link": "/",
+            "img": "/images/variants/2.png",
+            "title": "Гостевой дом одиссея",
+            "proximity": "Напрямую от отеля",
+            "score": "4,5",
+            "safety": "Безопасная бронь" 
+        },
+        {
+            "link": "/",
+            "img": "/images/variants/3.png",
+            "title": "отель victoria palas",
+            "proximity": "Напрямую от отеля",
+            "score": "3,9",
+            "safety": "Безопасная бронь" 
+        },
+        {
+            "link": "/",
+            "img": "/images/variants/4.png",
+            "title": "Хостел friends",
+            "proximity": "Напрямую от отеля",
+            "score": "4,0",
+            "safety": "Безопасная бронь" 
+        }
+    ]
